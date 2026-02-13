@@ -23,6 +23,6 @@ public:
 	virtual void UnHighLightActor() override;
 	//** end Enemy Interface */
 	
-protected::
+protected:
 	virtual void BeginPlay() override;
 };
